@@ -1,0 +1,81 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cdd {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5; /* پس‌زمینه ملایم 
+} */
+
+/* .scene {
+    position: relative;
+    width: 80vw;
+    height: 60vh;
+    background-color: #f4e1c1;
+    border: 2px solid #000;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    border-radius: 15px;
+} */
+
+/* .girl {
+    position: absolute;
+    bottom: 0;
+    left: -50px;
+    width: 30px;
+    height: 50px;
+    background-color: #ff9ecf;
+    clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+    animation: run 5s infinite linear;
+}
+
+..girl::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #ff9ecf;
+    border-radius: 50%;
+    transform: translateX(-50%);
+}
+
+.girl::after {
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    width: 4px;
+    height: 30px;
+    background-color: #7a6b6b;
+    transform: translateX(-50%); 
+}*/
+/* 
+@keyframes run {
+    0% {
+        left: -50px;
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(10deg);
+    }
+    50% {
+        left: 50%;
+        transform: rotate(-10deg);
+    }
+    75% {
+        transform: rotate(10deg);
+    }
+    100% {
+        left: 100%;
+        transform: rotate(0deg);
+    }
+} */ 

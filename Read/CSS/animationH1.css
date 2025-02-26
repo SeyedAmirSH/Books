@@ -1,0 +1,31 @@
+h1 {
+    font-size: 6rem;
+    font-family: 'Arial', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    position: relative;
+    color: rgb(233, 191, 191);
+    background: linear-gradient(45deg, #ff6347, #1e90ff, #32cd32, #ff1493);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: color-change 6s ease infinite;
+  }
+
+  @keyframes color-change {
+    0% {
+      background-position: 0% 50%;
+    }
+    25% {
+      background-position: 50% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    75% {
+      background-position: 50% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }

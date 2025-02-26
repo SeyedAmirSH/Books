@@ -1,0 +1,12 @@
+.header{
+    width: 990px; height: 870px;
+    right: 3px; left: 30px;
+    position: absolute;
+}
+
+strong{
+    color: red;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+}
